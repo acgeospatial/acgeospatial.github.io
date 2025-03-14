@@ -1,0 +1,215 @@
+{
+  "name": "Andrew Cutts",
+  "label": "GIS, Earth observation and Python Consultant",
+  "image_path": "img/Andrew.jpg",
+  "contact": {
+    "email": "info.acgeospatial@gmail.com",
+    "phone": "",
+    "location": "Mid Sussex, UK"
+  },
+  "summary": "I am a Geospatial / Earth Observation (EO) specialist with two decades of working experience. I have a range of industry experience from large multinational companies, SME/Startups and working for myself as a freelancer. ",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "My Website",
+      "url": "http://www.acgeospatial.co.uk",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrewcutts/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/acgeospatial",
+      "svg_path": "img/github.svg"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/profile/map-andrew.bsky.social",
+      "svg_path": "img/bluesky.svg"
+    },
+    {
+      "label": "Mastodon",
+      "url": "https://mapstodon.space/@map_andrew",
+      "svg_path": "img/mastodon.svg"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/map_andrew",
+      "svg_path": "img/twitter-x.svg"
+    }
+    
+  ],
+  "work_experience": [
+    {
+      "company": "Andrew Cutts",
+      "position": "Self employed Geospatial Consultant",
+      "url": "http://www.acgeospatial.co.uk",
+      "start_date": "November 2017",
+      "end_date": "Present",
+      "summary": "Geospatial Consulting",
+      "highlights": [
+        "Geospatial Services offered including consulting, writing and training",
+        "I am a JNCC Business Associate",
+        "Authored Learn QGIS 3.4 (Forth Edition), I regularly give training courses on Geospatial Python",
+        "Recent work highlights: QA/QC Python Scripts for Analysis Ready Data, Landcover modelling, Object detection in satellite imagery, consulting on various environmental projects examples from Peatland, Salt Marsh and Grassland"
+      ]
+    },
+    {
+      "company": "Terrabotics",
+      "position": "EO Operations Lead",
+      "url": "",
+      "start_date": "February 2017",
+      "end_date": "October 2017",
+      "summary": "Earth observation related activities",
+      "highlights": [
+        "Project Management guided by Agile",
+        "Rapid prototyping and automation with Python",
+        "Scaling EO processes into the cloud"
+      ]
+    },
+    {
+      "company": "CGI",
+      "position": "EO Technical Engineer",
+      "url": "",
+      "start_date": "November 2016",
+      "end_date": "February 2017",
+      "summary": "Earth observation related activities",
+      "highlights": [
+        "Building proof of concept EO products and working on bids",
+        "GIS and EO Consultanting"
+      ]
+    },
+    {
+      "company": "ACGeospatial",
+      "position": "GIS and EO Consultant ",
+      "url": "",
+      "start_date": "May 2016",
+      "end_date": "October 2016",
+      "summary": "Earth observation related activities",
+      "highlights": [
+        "Working as a consultant offering GIS and EO services.",
+        "Partnered with EPI Group Ltd to develop a GIS business line."
+      ]
+    },
+    {
+      "company": "Schlumberger",
+      "position": "Senior GIS Engineer ",
+      "url": "",
+      "start_date": "December 2009",
+      "end_date": "April 2016",
+      "summary": "GIS and Remote Sensing related activities",
+      "highlights": [
+        "GIS and Remote Sensing lead representing the company at worldwide conferences and recruitment events",
+        "Working with key stakeholders to ensure that geospatial products/processes accurately reflected business requirements",
+        "Modelling operational productivity tools, seeking out all commercial solutions and weighing up against in house design",
+        "Sourcing and processing EO datasets to support operations",
+        "Terrain modelling and creating EO derived products"
+      ]
+    },
+    {
+      "company": "Schlumberger",
+      "position": "GIS Engineer",
+      "url": "",
+      "start_date": "February 2006",
+      "end_date": "December 2009",
+      "summary": "GIS and Remote Sensing related activities",
+      "highlights": [
+        "GIS and Remote Sensing development (desktop and web) and worldwide support this involved setting up a worldwide GIS database and creating GIS web services with ArcGIS for server",
+        "Remote Sensing image interpretation – working alongside R&E to deliver business cases for imagery purchases"
+      ]
+    },
+    {
+      "company": "South Staffordshore Housing Association",
+      "position": "GIS Officer",
+      "url": "",
+      "start_date": "May 2016",
+      "end_date": "October 2016",
+      "summary": "GIS related activities",
+      "highlights": [
+        "GIS housing related activities predominately mapping and IT support",
+        "Test site for ESRI and Ordnance Survey"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Awesome Earth Observation Code",
+      "summary": "A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff",
+      "url": "https://github.com/acgeospatial/awesome-earthobservation-code",
+      "highlights": [
+        "Began as a side project from the Scence From Above Podcast",
+        "21 contributors",
+        "Over 500 links",
+        "Last updated 2024"
+      ],
+      "images": [
+        {
+          "img_path": "img/sfa.jpg",
+          "caption": "Scene From Above Podcast"
+        }
+      ]
+    },
+    {
+      "title": "Satellite Imagery Python",
+      "summary": "All my code from various blog posts",
+      "url": "https://github.com/acgeospatial/Satellite_Imagery_Python",
+      "highlights": [
+        "Cloud Native Earth Observation Code",
+        "Computer Vision Code",
+        "Wide range of Vector and Raster code"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wales Aberystwth",
+      "url": "https://www.aber.ac.uk/en/",
+      "degrees": [
+        "BSc Hons Geography"
+      ],
+      
+      "graduation_date": "1998 - 2001"
+    },
+    {
+      "institution": "University of Leicester",
+      "url": "https://le.ac.uk/",
+      "degrees": ["MSc Geographical Information Science"],
+      "graduation_date": "2001-2002"
+    }
+  ],
+  "skills": [
+    {
+      "name": "QGIS",
+      "proficiency": 98,
+      "proficiency_label": "98%"
+    },
+    {
+      "name": "ArcGIS",
+      "proficiency": 90,
+      "proficiency_label": "90%"
+    },
+    {
+      "name": "Python",
+      "proficiency": 90,
+      "proficiency_label": "90%"
+    },
+    {
+      "name": "PostGIS",
+      "proficiency": 80,
+      "proficiency_label": "80%"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "summary": "Keen runner over many distances. Regular Parkrunner"
+    },
+    {
+      "name": "Reading",
+      "summary": "Non fiction preference"
+    }
+  ]
+}

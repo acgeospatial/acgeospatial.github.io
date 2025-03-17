@@ -184,22 +184,22 @@
     {
       "name": "QGIS",
       "proficiency": 98,
-      "proficiency_label": "98%"
+      "proficiency_label": ""
     },
     {
       "name": "ArcGIS",
       "proficiency": 90,
-      "proficiency_label": "90%"
+      "proficiency_label": ""
     },
     {
       "name": "Python",
       "proficiency": 90,
-      "proficiency_label": "90%"
+      "proficiency_label": ""
     },
     {
       "name": "PostGIS",
       "proficiency": 80,
-      "proficiency_label": "80%"
+      "proficiency_label": ""
     }
   ],
   "interests": [
